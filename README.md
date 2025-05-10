@@ -1,3 +1,6 @@
 # app-dev
 My first respiratory.
-My Favorite series/movies is JOHN WICK.
+# My Favorite Anime shows
+- _One Punch Man_
+- _Sword Art Online_
+- _Solo Leveling_ 
