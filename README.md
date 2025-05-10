@@ -1,26 +1,21 @@
 # app-dev  
 ## My First Respiratory
 
-Welcome to **My First Respiratory**, a simple markdown showcase that includes a list of my favorite anime shows!
+Welcome to **My First Respiratory**, a simple markdown showcase that includes one of my favorite anime shows!
 
 ---
 
-## My Favorite Anime Shows
-
-### 1. _One Punch Man_
-![One Punch Man](https://upload.wikimedia.org/wikipedia/en/2/22/One_Punch_Man_cover.png)
-Saitama, a hero who can defeat any opponent with a single punch, is bored with his invincibility.
+## My Favorite Anime Show
 
 ---
 
-### 2. _Sword Art Online_
-![Sword Art Online](https://upload.wikimedia.org/wikipedia/en/6/63/Sword_Art_Online_light_novel_volume_1_cover.jpg)
-Trapped in a virtual reality MMORPG, players must clear all levels to escape—with real-life consequences.
+### 1. _Solo Leveling_
 
----
+![image](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/solo-leveling-arise-tier-list-3.jpg)
 
-### 3. _Solo Leveling_
-![Solo Leveling](https://upload.wikimedia.org/wikipedia/en/f/fb/Solo_Leveling_web_novel_volume_1_cover.jpg)
-Jinwoo Sung, the weakest hunter, discovers a mysterious program that makes him stronger as he levels up.
+**Description:**  
+_Solo Leveling_ is a South Korean anime adaptation of the hit web novel and manhwa. The story follows **Sung Jinwoo**, an E-rank hunter known as the weakest in the world. After a life-threatening event in a mysterious double dungeon, Jinwoo gains access to a unique system that allows him to level up in strength, skills, and power—something no other hunter can do. As he rises from the bottom to become the most powerful hunter, he uncovers dark secrets behind the dungeons, the world’s ranking system, and his own destiny.
 
----
+**Genre:** Action, Fantasy, Adventure  
+**Studio:** A-1 Pictures  
+**Origin:** Based on the web novel by Chugong and the webtoon illustrated by DUBU (Redice Studio).
